@@ -1,2 +1,2 @@
 # ode-solibri-voight-kampff
-API-Manifest-Check für Solibri Erweiterungen
+Public API-Manifest-File für Client Abfrage
