@@ -1,101 +1,101 @@
 ﻿{
-    "generated":  "2026-08-09T09:14:38.0295792Z",
+    "generated":  "2026-08-09T09:19:36.0430351Z",
     "source":  "X:\\ODE-Templates\\ODE Solibri\\ODE-DEV\\ODE-API\\AKTUELL",
     "files":  [
                   {
                       "name":  "smc-api-info-DecomposesParentInfo-2025.04.07.jar",
-                      "sha256":  "c57ca831fcd0f297d0dc7cc212b5df401b4cbd34925d9b77df39c1a563f16c18",
-                      "size":  43666
+                      "size":  43666,
+                      "lastWriteUtc":  "2026-05-30T09:33:37.6099162Z"
                   },
                   {
                       "name":  "smc-api-info-examples-2025-09-17.jar",
-                      "sha256":  "20b2987af2f6980bed05cd723e922bb773f1d990be4a964fbe89dca329f7795a",
-                      "size":  19125104
+                      "size":  19125104,
+                      "lastWriteUtc":  "2026-05-30T09:30:49.6473539Z"
                   },
                   {
                       "name":  "smc-api-info-material-2025.01.10.jar",
-                      "sha256":  "8b7b8593600d02a060bd1aa3ebcdf7506b410f938dfc7218c3b9113aff6c5eb1",
-                      "size":  19082394
+                      "size":  19082394,
+                      "lastWriteUtc":  "2026-05-30T09:33:33.2402126Z"
                   },
                   {
                       "name":  "smc-api-info-ProfileInfos-2025-01-12.jar",
-                      "sha256":  "f88686964f3f9fedf47849b2dbe32decd2343bc4fac5fafe91a3f23916daea84",
-                      "size":  6022
+                      "size":  6022,
+                      "lastWriteUtc":  "2026-05-30T09:33:48.3201839Z"
                   },
                   {
                       "name":  "smc-api-info-Space-Container-Opening-RelationshipInfos-2025.01.10.jar",
-                      "sha256":  "4eb2f4b3751fd30d7e723d23e3c36a9145d3a355357d049c4f2cb5b8b43fa883",
-                      "size":  19294
+                      "size":  19294,
+                      "lastWriteUtc":  "2026-05-30T09:33:49.7002581Z"
                   },
                   {
                       "name":  "smc-api-info-view-ode-loi-check-1.3.07.jar",
-                      "sha256":  "5b2924264e3a0276961b499f5c8b7ce1fd4a8660cd29403f8c3bd552ade68cdf",
-                      "size":  67784327
+                      "size":  67784327,
+                      "lastWriteUtc":  "2026-08-07T17:35:21.6858152Z"
                   },
                   {
                       "name":  "smc-api-rules-ode-iC-T11-1.0.0-2024-11-07.jar",
-                      "sha256":  "927958c7bf049437b6dc9cc1336a683f9d461f0b07cec8e1af0fdf5acea6d926",
-                      "size":  1970895
+                      "size":  1970895,
+                      "lastWriteUtc":  "2026-05-30T09:33:42.2840085Z"
                   },
                   {
                       "name":  "smc-api-rules-ode-template-fcc-rules-prod-1.0.0-2025-07-21.jar",
-                      "sha256":  "9577561a9281ec62e0269def2a00305e69897dc43b51fe43c2864e88bdc75fd0",
-                      "size":  2826548
+                      "size":  2826548,
+                      "lastWriteUtc":  "2026-05-30T09:33:47.4940437Z"
                   },
                   {
                       "name":  "smc-api-titan-2026-04-08.jar",
-                      "sha256":  "856f2b939a21dc63520ce97cd525446fc016c1e2336b21ea47824dc5be802045",
-                      "size":  3196
+                      "size":  3196,
+                      "lastWriteUtc":  "2026-05-30T09:33:48.9603176Z"
                   },
                   {
                       "name":  "smc-api-view-ode-drill-instructor-2026.07.30.jar",
-                      "sha256":  "88ea5c01b1e92fa513982dbb0c1b0e8e4a69cd4d0b6d405c86c2bb017a13219f",
-                      "size":  73575651
+                      "size":  73575651,
+                      "lastWriteUtc":  "2026-07-30T21:21:50.1594848Z"
                   },
                   {
                       "name":  "smc-api-view-ode-georeference-2026-07-22.jar",
-                      "sha256":  "423f4c6463310ef5fd4f5b6afdbea70637a1bc87bd455e0eee1dec71dfb0029b",
-                      "size":  84737801
+                      "size":  84737801,
+                      "lastWriteUtc":  "2026-07-22T09:02:38.0438892Z"
                   },
                   {
                       "name":  "smc-api-view-ode-materials-2025-01-02.jar",
-                      "sha256":  "d502f804c8e3086788d75a8083e7ee6936158e292e249661899f24e4e89d74aa",
-                      "size":  6387529
+                      "size":  6387529,
+                      "lastWriteUtc":  "2026-05-30T09:32:05.6376009Z"
                   },
                   {
                       "name":  "smc-api-view-ode-notepad-2025-01-10.jar",
-                      "sha256":  "2388df3fe006b761ae82ea5d86f1dc35f98f5185f479c6bc61bcf22e1196a630",
-                      "size":  81591
+                      "size":  81591,
+                      "lastWriteUtc":  "2026-05-30T09:33:34.4368522Z"
                   },
                   {
                       "name":  "smc-api-view-ode-oebb-topologie-2026-01-16.jar",
-                      "sha256":  "6aaecf83aa83034b90a95b1124b64ef405e82350b2eb532d211f79a0018d31c3",
-                      "size":  29801904
+                      "size":  29801904,
+                      "lastWriteUtc":  "2026-05-30T09:31:25.7452065Z"
                   },
                   {
                       "name":  "smc-api-view-ode-paparazzi-2026-07-28.jar",
-                      "sha256":  "8995763c6d810cdfcdbd98c3baf26b915ac0ccfce71bb30715e8fc21d9603798",
-                      "size":  639223
+                      "size":  639223,
+                      "lastWriteUtc":  "2026-07-28T12:58:16.3880893Z"
                   },
                   {
                       "name":  "smc-api-view-ode-reportdataview-2026-07-30.jar",
-                      "sha256":  "8978fddf2d780191bfd2d28310b40cc4c2e5601f6ea340692216cd57df68925b",
-                      "size":  54391515
+                      "size":  54391515,
+                      "lastWriteUtc":  "2026-07-30T22:34:11.5109724Z"
                   },
                   {
                       "name":  "smc-api-view-ode-roomdataviewer-2025-05-12.jar",
-                      "sha256":  "fd36e252b416ee2950dbbeeda8bcc9e8af0cc0d7dfac236eb5bf4ba5bcb3718e",
-                      "size":  51232998
+                      "size":  51232998,
+                      "lastWriteUtc":  "2026-05-30T09:35:46.5177388Z"
                   },
                   {
                       "name":  "smc-api-view-ode-scram-2025-12-12.jar",
-                      "sha256":  "4c567d4393f425d94efd741f2dd797adcb63dfb09cd0219308b0880356cd86d3",
-                      "size":  27625803
+                      "size":  27625803,
+                      "lastWriteUtc":  "2026-05-30T09:30:29.2872833Z"
                   },
                   {
                       "name":  "smc-api-view-ode-section-2025-01-10.jar",
-                      "sha256":  "059328426605f8bb12e9177a3c24ea80065f3e3bf2faba20d9ff0f36d87a81cd",
-                      "size":  2972844
+                      "size":  2972844,
+                      "lastWriteUtc":  "2026-05-30T09:32:28.4145725Z"
                   }
               ]
 }
