@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "2026-08-12T11:28:46.3116569Z",
+    "generated":  "2026-08-14T08:53:53.9651600Z",
     "source":  "X:\\ODE-Templates\\ODE Solibri\\ODE-DEV\\ODE-API\\AKTUELL",
     "files":  [
                   {
@@ -28,9 +28,9 @@
                       "lastWriteUtc":  "2026-05-30T09:33:49.7002581Z"
                   },
                   {
-                      "name":  "smc-api-info-view-ode-loi-check-1.3.07.jar",
-                      "size":  67784327,
-                      "lastWriteUtc":  "2026-08-07T17:35:21.6858152Z"
+                      "name":  "smc-api-info-view-ode-loi-check-1.3.08.jar",
+                      "size":  67785125,
+                      "lastWriteUtc":  "2026-08-13T15:56:34.0674472Z"
                   },
                   {
                       "name":  "smc-api-rules-ode-iC-T11-1.0.0-2024-11-07.jar",
@@ -59,8 +59,8 @@
                   },
                   {
                       "name":  "smc-api-view-ode-manifest-check-2026-08.10.jar",
-                      "size":  7456365,
-                      "lastWriteUtc":  "2026-08-10T10:57:17.4835031Z"
+                      "size":  7456366,
+                      "lastWriteUtc":  "2026-08-12T11:21:12.2259100Z"
                   },
                   {
                       "name":  "smc-api-view-ode-materials-2025-01-02.jar",
@@ -83,9 +83,9 @@
                       "lastWriteUtc":  "2026-08-12T11:27:19.1354451Z"
                   },
                   {
-                      "name":  "smc-api-view-ode-reportdataview-2026-07-30.jar",
-                      "size":  54391515,
-                      "lastWriteUtc":  "2026-07-30T22:34:11.5109724Z"
+                      "name":  "smc-api-view-ode-reportdataview-2026-08-13.jar",
+                      "size":  54397116,
+                      "lastWriteUtc":  "2026-08-14T07:59:23.3131156Z"
                   },
                   {
                       "name":  "smc-api-view-ode-roomdataviewer-2025-05-12.jar",
