@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "2026-08-24T10:18:40.2723601Z",
+    "generated":  "2026-08-24T10:39:41.6488861Z",
     "source":  "X:\\ODE-Templates\\ODE Solibri\\ODE-DEV\\ODE-API\\AKTUELL",
     "files":  [
                   {
@@ -48,9 +48,9 @@
                       "lastWriteUtc":  "2026-05-30T09:33:48.9603176Z"
                   },
                   {
-                      "name":  "smc-api-view-ode-drill-instructor-2026.07.30.jar",
-                      "size":  73575651,
-                      "lastWriteUtc":  "2026-07-30T21:21:50.1594848Z"
+                      "name":  "smc-api-view-ode-drill-instructor-2026.08.24.jar",
+                      "size":  73576566,
+                      "lastWriteUtc":  "2026-08-24T08:42:52.0577524Z"
                   },
                   {
                       "name":  "smc-api-view-ode-georeference-2026-08-20.jar",
@@ -58,9 +58,9 @@
                       "lastWriteUtc":  "2026-08-20T16:28:59.0350724Z"
                   },
                   {
-                      "name":  "smc-api-view-ode-manifest-watchdog-2026-08.14.jar",
-                      "size":  7468119,
-                      "lastWriteUtc":  "2026-08-18T10:28:31.3348993Z"
+                      "name":  "smc-api-view-ode-manifest-watchdog-2026-08.24.jar",
+                      "size":  7472676,
+                      "lastWriteUtc":  "2026-08-24T10:24:44.3980665Z"
                   },
                   {
                       "name":  "smc-api-view-ode-materials-2025-01-02.jar",
