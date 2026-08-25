@@ -1,5 +1,5 @@
 ﻿{
-    "generated":  "2026-08-24T10:39:41.6488861Z",
+    "generated":  "2026-08-25T09:21:50.3634370Z",
     "source":  "X:\\ODE-Templates\\ODE Solibri\\ODE-DEV\\ODE-API\\AKTUELL",
     "files":  [
                   {
@@ -53,9 +53,9 @@
                       "lastWriteUtc":  "2026-08-24T08:42:52.0577524Z"
                   },
                   {
-                      "name":  "smc-api-view-ode-georeference-2026-08-20.jar",
-                      "size":  85189410,
-                      "lastWriteUtc":  "2026-08-20T16:28:59.0350724Z"
+                      "name":  "smc-api-view-ode-georeference-2026-08-25.jar",
+                      "size":  100119885,
+                      "lastWriteUtc":  "2026-08-25T09:06:53.5115629Z"
                   },
                   {
                       "name":  "smc-api-view-ode-manifest-watchdog-2026-08.24.jar",
